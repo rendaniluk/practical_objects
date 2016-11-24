@@ -2,7 +2,7 @@
 Objects helps us when we need to declare variables which are complicated such as describing a car, person and many more complicated data.
 
 #Examples of Objects
-car object
+*car object
 var car = {
     color : 'blue',
     make : 'Toyota',
