@@ -1,18 +1,18 @@
 # practical_objects
 Objects helps us when we need to declare variables which are complicated such as describing a car, person and many more complicated data.
 
-#Examples of Objects
+# Examples of Objects
 
 car object
 
-*var car = {
+* var car = {
 
     color : 'blue',
     make : 'Toyota',
     model : 'Corolla',
     year : 2014,
     reg_number : 'CY 25913'
-    };*
+    }; *
 
 //dot notation
 
